@@ -2,7 +2,7 @@
 
 This is a Tic Tac Toe game built using React.
 
-## Features:
+## Features
 
 - Different Themes
 - Undo button (to undo the last move)
